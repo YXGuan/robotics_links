@@ -27,13 +27,21 @@ https://linorobot.org/
 https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples 
 
 Some less popular but very interesting repos (many are discontinued unfortunately):
+
 https://github.com/nickcharron/waypoint_nav
+
 https://ardupilot.org/planner/docs/mission-planner-installation.html
+
 https://github.com/ros-geographic-info/open_street_map
+
 https://swri-robotics.github.io/mapviz/
+
 https://github.com/tork-a/visualization_rwt
+
 https://github.com/danielsnider/ros-rover
+
 https://github.com/lgsvl/lanefollowing
+
 (not ROS related)https://github.com/ika-rwth-aachen/Cam2BEV
 
 

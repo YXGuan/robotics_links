@@ -81,34 +81,34 @@ https://www.youtube.com/c/TheConstruct
 
 https://husarnet.com/blog/ros2-docker
 
-## Experts in the field (and many more):
+## ROS packages contributors (and many more):
 
-Tom Moore, Ex-clearpath, now Locus Robotics
+Tom Moore, Ex-clearpath, now Locus Robotics --> robot_localization
 https://github.com/ayrton04
 
-Nick Charron, Ex-clearpath, now Meta
+Nick Charron, Ex-clearpath, now Meta --> waypoint nav
 https://github.com/nickcharron/
 
-Steve Macenski, Samsung
+Steve Macenski, Samsung -- > Nav2, Slam toolbox
 https://github.com/SteveMacenski
 
-Paul Bovbel, Ex-clearpaht, now Locus Robotics
+Paul Bovbel, Ex-clearpaht, now Locus Robotics -->
 https://github.com/paulbovbel
 
 Maks Sorokin, Everyday robotics
 https://www.youtube.com/watch?v=JsAZy3YETwQ
 
-Oswaldo Ferro, Microsoft
+Oswaldo Ferro, Microsoft --> Spot SDK
 https://github.com/ojferro
 
 Mateusz Sadowski, independent consultant
 https://github.com/msadowski
 
-Many from AWS robotics
+Many from AWS robotics 
 https://github.com/orgs/aws-robotics/people 
 
-Daniel Snider
+Daniel Snider --> GPS_goal
 https://github.com/danielsnider
 
-Dustin Franklin Nvidia 
+Dustin Franklin Nvidia --> ROS Jetbot, ROS reinforcement learning
 https://github.com/dusty-nv
